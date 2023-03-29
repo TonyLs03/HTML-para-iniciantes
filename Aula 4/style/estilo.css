@@ -1,0 +1,17 @@
+.titulo {
+  font-size: 50px;
+  font-weight: 100px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.txtRoxo {
+  color: rgba(33, 40, 131, 0.8)
+}
+
+.txtAzul {
+  color: blue;
+}
+
+.paragrafo {
+  line-height: 20px;
+}
